@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatheusAbreu93
 - 👀 I’m interested in technology, music and food
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on with exchanges of ideas and mutual learning in technology
 - 📫 How to reach me on instagram @maabreu93
 
